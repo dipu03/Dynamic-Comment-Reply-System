@@ -25,7 +25,7 @@ https://github.com/dipu03/Dynamic-Comment-Reply-System.git
 
 ## Live Demo
 
-Check out the live demo [here](https://yourusername.github.io/comment-system).
+Check out the live demo [here](https://dipu03.github.io/Dynamic-Comment-Reply-System).
 
 ## License
 
