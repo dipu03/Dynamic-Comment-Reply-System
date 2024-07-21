@@ -27,6 +27,3 @@ https://github.com/dipu03/Dynamic-Comment-Reply-System.git
 
 Check out the live demo [here](https://dipu03.github.io/Dynamic-Comment-Reply-System).
 
-## License
-
-This project is licensed under the MIT License.
